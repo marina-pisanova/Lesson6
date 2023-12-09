@@ -22,6 +22,8 @@ git commit -m “message”
 git log
 git log --oneline
 ```
+## Ветки
+
 6. Посмотреть список веток в репозитории
 ```sh
 git branch
